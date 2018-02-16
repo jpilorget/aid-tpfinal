@@ -1,5 +1,5 @@
-# aid-tpfinal
-Trabajo final de la materia Análisis Inteligente de Datos (Maestría en DM - FCEN - UBA).
+# Trabajo final de la materia Análisis Inteligente de Datos (Maestría en DM - FCEN - UBA).
+Se pretende aplicar técnicas de minería de datos para descubrir relaciones entre los niveles de voto a distintas fuerzas y los atributos sociodemográficos de la población.
 
 ## Descripción general
 Para el trabajo final se utilizaron dos fuentes de información:
